@@ -55,3 +55,4 @@ const UI_Dialog = UIFactory.createUIElement('dialog', {
 });
 
 [UI_Dialog, UI_Button].forEach(element => element.onMount());
+
